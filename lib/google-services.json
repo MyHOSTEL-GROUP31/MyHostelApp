@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626612201112",
+    "project_id": "recess311",
+    "storage_bucket": "recess311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626612201112:android:e1803df9e3ad8359a052ed",
+        "android_client_info": {
+          "package_name": "com.example.MyHostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626612201112-vep9m1mq947jf6d0el927gahbnt7b84m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV2lXsYtIsZcBopwwbKmWLd831NN7IGa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626612201112-vep9m1mq947jf6d0el927gahbnt7b84m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
