@@ -6,4 +6,4 @@ Happy coding ^^
 
 ## Screenshots
 
-![Capture](https://user-images.githubusercontent.com/40917856/135775792-4425f3ad-7fbb-4c26-8a93-6a5aaf87d30f.PNG)
+![Capture](https://user-images.githubusercontent.com/83466862/154012093-ba767996-051f-4bc3-9b6e-e917fb06b98d.png)
